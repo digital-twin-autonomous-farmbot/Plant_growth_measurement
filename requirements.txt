@@ -4,7 +4,7 @@ torch==1.7.0
 pillow==8.3.1
 opencv-python==4.5.3.56
 Cython==0.29.24
-# pycocotools==2.0.0
+pycocotools==2.0.0
 torchvision==0.8.1
 matplotlib==3.4.2
 PyYAML==5.4.1
